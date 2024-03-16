@@ -5,6 +5,6 @@
     "node": "8.0",
     "electron": "8.5.5",
     "changelog": "Program version 1.0.0",
-    "updateURL": "https://github.com/astraneta/gymer/releases/download/v1.0.0/AstraGYM-setup.exe"
+    "updateURL": "https://github.com/astraneta/AstraGYM/releases/download/v1.0.0/AstraGYM-setup.exe"
     
 }
